@@ -1,2 +1,2 @@
 # passwordio
-This repository serves the passwordio application to public
+One place to manage all your passwords with ease and safety!
