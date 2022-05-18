@@ -8,4 +8,7 @@ build:
 	@mkdir -p build
 	@cp -R ../passwordio-client/build/* ./build/
 	@echo "✔️ Deployment successful"
+	@rm -rf docs
+	@mkdir -p docs
+	@cp -R build/* docs/
 
