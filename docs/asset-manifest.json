@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/passwordio/static/css/main.e5285b0c.css",
-    "main.js": "/passwordio/static/js/main.234767cb.js",
+    "main.css": "/passwordio/static/css/main.e9cb6daa.css",
+    "main.js": "/passwordio/static/js/main.cb829167.js",
     "index.html": "/passwordio/index.html",
-    "main.e5285b0c.css.map": "/passwordio/static/css/main.e5285b0c.css.map",
-    "main.234767cb.js.map": "/passwordio/static/js/main.234767cb.js.map"
+    "main.e9cb6daa.css.map": "/passwordio/static/css/main.e9cb6daa.css.map",
+    "main.cb829167.js.map": "/passwordio/static/js/main.cb829167.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5285b0c.css",
-    "static/js/main.234767cb.js"
+    "static/css/main.e9cb6daa.css",
+    "static/js/main.cb829167.js"
   ]
 }
